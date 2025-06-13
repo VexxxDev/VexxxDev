@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Jerome</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 ---
@@ -39,9 +39,9 @@
 ---
 
 ### 📫 Let's Connect!
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-url]
-- 🌐 Portfolio: [your-portfolio-url]
+- 📧 Email: guyajerome@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jerome-guya-58756b21b
+- 🌐 Portfolio: https://jeromedev.me/
 
 ---
 
